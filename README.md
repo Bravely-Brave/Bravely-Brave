@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Heyaa 👋, I'm stéphanie SAMBOUKESVARANE</h1>
-<h3 align="center">A passionate web developpement student !</h3>
+<h3 align="center">A french passionate web developpement student !</h3>
 
-- 🔭 I’m currently working on **a Halloween project called spooky-projectky**
+- 🔭 I’m currently working on **a Halloween project called spooky-project**
 
-- 🌱 I’m currently learning **Html,Css, Javascript, NodeJS & VueJS**
+- 🌱 I’m currently learning **Html, Css, Javascript, NodeJS & VueJS**
 
-- 📫 You can email me **ssvarane@gmail.com**
+- 📫 here's my email **ssvarane@gmail.com**
 
 - ⚡ Fun fact **If only I could have a superpower, it would be to know every programming language that exists ;)**
 
